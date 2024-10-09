@@ -1,0 +1,40 @@
+.nos-conheca {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.cabecalho-nos-conheca {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.imagem-dog {
+  width: 100px; /* Ajuste conforme necessário */
+  height: auto;
+  margin-right: 20px;
+}
+
+.texto-nos-conheca h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.conteudo-nos-conheca {
+  display: flex;
+}
+
+.imagem-container {
+  flex: 1;
+}
+
+.imagem-cat {
+  width: 100%; /* Ajuste conforme necessário */
+  height: auto;
+}
+
+.descricao-nos-conheca {
+  flex: 2;
+  padding-left: 20px;
+  color: #555;
+}
